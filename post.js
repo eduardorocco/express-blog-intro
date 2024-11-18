@@ -14,7 +14,7 @@ let post = [
     {
         title: 'Cracker barbabietola',
         content:'lorem ipsnum dolor amet',
-        image: '/images/ciambellone.jpeg',
+        image: '/images/cracker_barbabietola.jpeg',
         tags:[
             'lorem',
             'ipsum',
@@ -24,7 +24,7 @@ let post = [
     {
         title: 'Pane fritto dolce',
         content:'lorem ipsnum dolor amet',
-        image: '/images/ciambellone.jpeg',
+        image: '/images/pane_fritto_dolce.jpeg',
         tags:[
             'lorem',
             'ipsum',
@@ -34,7 +34,7 @@ let post = [
     {
         title: 'Pasta barbabietola',
         content:'lorem ipsnum dolor amet',
-        image: '/images/ciambellone.jpeg',
+        image: '/images/pasta_barbabietola.jpeg',
         tags:[
             'lorem',
             'ipsum',
@@ -44,7 +44,7 @@ let post = [
     {
         title: 'Torta paesana',
         content:'lorem ipsnum dolor amet',
-        image: '/images/ciambellone.jpeg',
+        image: '/images/torta_paesana.jpeg',
         tags:[
             'lorem',
             'ipsum',

@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 app.use(express.static('public'))
 
 app.get('/bacheca', (req, res) => {
-    res.send(post)
+    res.json(post)
 })
 
 app.listen(port, () => {
