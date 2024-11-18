@@ -4,6 +4,12 @@ const port = 3000
 const post = require('./post.js')
 
 app.get('/', (req, res) => {
+    res.send('Benvenuto nel Server')
+})
+
+app.use(express.static('public'))
+
+app.get('/bacheca', (req, res) => {
     res.send(post)
 })
 

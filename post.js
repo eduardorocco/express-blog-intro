@@ -58,7 +58,7 @@ post.forEach((el, index) => {
 })
 
 
-console.log(post);
+// console.log(post);
 
 
 module.exports = post
