@@ -1,5 +1,3 @@
-const { count } = require("console")
-
 let post = [
     {
         title: 'Ciambellone',
@@ -56,7 +54,6 @@ let post = [
 post.forEach((el, index) => {
     el.id = index + 1
 })
-
 
 // console.log(post);
 
